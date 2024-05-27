@@ -1,0 +1,52 @@
+.newsletter{
+    background-color: #f7f7f7;
+    min-height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.titulo-news h5{
+    font-size: 4rem;
+    color: #a4a4a4;
+}
+.titulo-news p{
+    color: #7c7c7c;
+    font-size: 1.6rem;
+    font-style: italic;
+}
+.news-cont{
+    align-items: center;
+    justify-content: center;
+    gap: 20vw;
+}
+form{
+    margin: 0 10px;
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+form input{
+    font-size: 1.25em;
+    color: #7c7c7c;
+    font-style: italic;
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    border: 3px solid #2c70ff;
+    background: transparent;
+    padding: 15px;
+    margin: 0px;
+    border-radius: 0px;
+}
+form button{
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #2c70ff;
+    color: white;
+    margin: 0px;
+    cursor: pointer;
+    border: 0px;
+    padding: 15px 30px;
+}
