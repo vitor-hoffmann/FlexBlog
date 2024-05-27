@@ -2,11 +2,13 @@
 @import "./css/herosection.css";
 @import "./css/produtos.css";
 @import "./css/precos.css";
+@import "./css/atribuicoes.css";
+@import "./css/newsletter.css";
 
 *{
     box-sizing: border-box;
 }
-body, h1, h2, h3 {
+body, h1, h2, h3, h4 {
     margin: 0;
     padding: 0;
     font-family: "Nunito", Helvetica, Arial, sans-serif;
