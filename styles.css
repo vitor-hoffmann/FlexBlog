@@ -1,5 +1,6 @@
 @import "./css/header.css";
 @import "./css/herosection.css";
+@import "./css/produtos.css";
 
 *{
     box-sizing: border-box;
@@ -14,4 +15,5 @@ html{
 }
 img{
     overflow: clip;
+    border-radius: 8px;
 }
