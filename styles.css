@@ -4,6 +4,7 @@
 @import "./css/precos.css";
 @import "./css/atribuicoes.css";
 @import "./css/newsletter.css";
+@import "./css/footer.css";
 
 *{
     box-sizing: border-box;

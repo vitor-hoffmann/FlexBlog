@@ -31,4 +31,5 @@ header{
     display: flex;
     justify-content: center;
     background-color: #2c70ff;
+    padding: 1.5vw;
 }
